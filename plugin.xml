@@ -49,6 +49,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 <pod name="Firebase/Analytics" spec="~> 6.23.0" />
             </pods>
         </podspec>
+        <framework src="Firebase/Analytics" type="podspec" spec="~> 6.23.0" />
     </platform>
 
     <platform name="android">
